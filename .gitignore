@@ -1,0 +1,15 @@
+# Virtual Environments
+*venv
+*.venv
+
+# Editor Related Folders/Files
+*.idea
+*.vscode
+*.sln
+*.pyproj
+*.lnk
+
+# Cache Files
+*__pycache__
+*pip_cache
+*.pytest_cache
